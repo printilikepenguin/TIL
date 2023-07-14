@@ -50,7 +50,7 @@
 1. git ignore
    - echo b.txt >> .gitignore
    - 파일중에 APi가 이쓰면 얘는 무조건 이그노얼해주야됨 
-
+   - 알아두면 좋은 사이트 https://www.toptal.com/developers/gitignore
 1. git add
    - git add .
 
@@ -112,6 +112,7 @@
     - 클론으로 받은건 이미 git init이 되어있음
 
 ## 코드업 파이썬 기초 100제를 풀고
+```
 논리연산 개못함 추가공부 必
-
 리스트 정의내리는 법 좀 .......
+```
